@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Lush.aternos.me:20194",
+    "ip": "Lush.aternos.me",
     "port": 20194,
     "version": "",
     "try-creative": false
